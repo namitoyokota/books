@@ -39,3 +39,11 @@ You hurt me. You hurt the planet.
 You shame the angels who watch over you and you spite the Almighty, who created you and only you with your unique gifts, for the sole purpose of nudging the human race one millimeter farther along its path back to God.
 Creative work is not a selfish act or a bid for attention on the part of the actor. It's a gift to the world and every being in it.
 Don't cheat us of your contribution. Give us what you've got.
+
+### The Pursuit of Holiness
+
+#### Called to be holy
+> We are through Christ made holy in our standing before God, and called to be holy in our daily lives.
+
+#### Evidence of holiness
+> Is there evident of practical holiness in my life? pg 25.
