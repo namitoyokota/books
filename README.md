@@ -1,17 +1,51 @@
 # Books
 My book summaries, notes, and recommendations.
 
-## Top 10 Books I recommend
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+## Recommendations
+### Christianity
+- Mere Christianity
+- The Case for Christ
+- Radical
+- The Great Divorce
+- Letter from a Skeptic
+- Seeking Allah, Finding Jesus
+- Walking with God through Pain and Suffering
+- Gospel Fluency
+- The Knowledge of Holy
+- The Daniel Dilemma
+- Revival Starts Here
+
+### Psychology
+- Man's Search for Meaning
+- 12 Rules for Life
+- Beyond Order
+- Spark
+
+### Engineering
+- Permanent Record
+- Building a Second Brain
+- Infinite Powers
+- Clean Code
+
+### Business
+- The Psychology of Money
+- The 4-Hour Work Week
+- Rich Dad, Poor Dad
+- Dave Ramsey's Complete Guide To Money
+- Zero to One
+
+### Creativity
+- Show Your Work
+- Steal Like an Artist
+- Keep Going
+- The War of Art
+
+### Fiction
+- There's No Such Thing as a Dragon
+- The Hitchhiker's Guide to the Galaxy
+
+### Comedy
+- Is This Anything?
 
 ## Notes
 
