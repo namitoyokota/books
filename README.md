@@ -80,4 +80,4 @@ Don't cheat us of your contribution. Give us what you've got.
 > We are through Christ made holy in our standing before God, and called to be holy in our daily lives.
 
 #### Evidence of holiness
-> Is there evident of practical holiness in my life? pg 25.
+> Is there evidence of practical holiness in my life? pg 25.
