@@ -3,49 +3,49 @@ My book summaries, notes, and recommendations.
 
 ## Recommendations
 ### Christianity
-- Mere Christianity
-- The Case for Christ
-- Radical
-- The Great Divorce
-- Letter from a Skeptic
-- Seeking Allah, Finding Jesus
-- Walking with God through Pain and Suffering
-- Gospel Fluency
-- The Knowledge of Holy
-- The Daniel Dilemma
-- Revival Starts Here
+- Mere Christianity - C.S. Lewis
+- The Case for Christ - Lee Strobel
+- Radical - David Platt
+- The Great Divorce - C.S. Lewis
+- Letter from a Skeptic - Gregory A. Boyd
+- Seeking Allah, Finding Jesus - Nabeel Qureshi
+- Walking with God through Pain and Suffering - Timothy Keller
+- Gospel Fluency - Jeff Vanderstelt
+- The Knowledge of Holy - A.W. Tozer
+- The Daniel Dilemma - Christ Hodges
+- Revival Starts Here - Dave Clayton
 
 ### Psychology
-- Man's Search for Meaning
-- 12 Rules for Life
-- Beyond Order
-- Spark
+- Man's Search for Meaning - Viktor E. Frankl
+- 12 Rules for Life - Jordan B. Peterson
+- Beyond Order - Jordan B. Peterson
+- Spark - John J. Ratey
 
 ### Engineering
-- Permanent Record
-- Building a Second Brain
-- Infinite Powers
-- Clean Code
+- Permanent Record - Edward Snowden
+- Building a Second Brain - Tiago Forte
+- Infinite Powers - Steven H. Strogatz
+- Clean Code - Robert C. Martin
 
 ### Business
-- The Psychology of Money
-- The 4-Hour Work Week
-- Rich Dad, Poor Dad
-- Dave Ramsey's Complete Guide To Money
-- Zero to One
+- The Psychology of Money - Morgan Housel
+- The 4-Hour Work Week - Timothy Ferriss
+- Rich Dad, Poor Dad - Robert T. Kiyosaki
+- Dave Ramsey's Complete Guide To Money - Dave Ramsey
+- Zero to One - Peter Thiel
 
 ### Creativity
-- Show Your Work
-- Steal Like an Artist
-- Keep Going
-- The War of Art
+- Show Your Work - Austin Kleon
+- Steal Like an Artist - Austin Kleon
+- Keep Going - Austin Kleon
+- The War of Art - Steven Pressfield
 
 ### Fiction
-- There's No Such Thing as a Dragon
-- The Hitchhiker's Guide to the Galaxy
+- There's No Such Thing as a Dragon - Jack Kent
+- The Hitchhiker's Guide to the Galaxy - Douglas Adams
 
 ### Comedy
-- Is This Anything?
+- Is This Anything? - Jerry Seinfeld
 
 ## Notes
 
