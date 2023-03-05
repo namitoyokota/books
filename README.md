@@ -9,11 +9,6 @@ My book summaries, notes, and recommendations.
 - The Great Divorce - C.S. Lewis
 - Letter from a Skeptic - Gregory A. Boyd
 - Seeking Allah, Finding Jesus - Nabeel Qureshi
-- Walking with God through Pain and Suffering - Timothy Keller
-- Gospel Fluency - Jeff Vanderstelt
-- The Knowledge of Holy - A.W. Tozer
-- The Daniel Dilemma - Christ Hodges
-- Revival Starts Here - Dave Clayton
 
 ### Psychology
 - Man's Search for Meaning - Viktor E. Frankl
