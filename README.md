@@ -53,7 +53,7 @@ My book summaries, notes, and recommendations.
 10 Ways to Stay Creative in Good Times and Bad
 
 #### Naps
-> Naps are the secret weapon of many artists. "It's mostly napping." savs filmmaker Ethan Coen of his and his brother Joel's creative process. I consider naps to be another form of magical tidying that seems unproductive but often leads to new ideas.
+> Naps are the secret weapon of many artists. "It's mostly napping." says filmmaker Ethan Coen of his and his brother Joel's creative process. I consider naps to be another form of magical tidying that seems unproductive but often leads to new ideas.
 Not all naps are created equal. There are lots of ways to take a nap. Salvador Dali liked to nap while holding a spoon. As he dozed off, he'd drop the spoon and wake up, but still be in the dreamlike state he needed for his surreal paint-ings. Writer Philip Roth said he learned his nap technique from his father: Take your clothes off and pull a blanket over you, and you sleep bet-ter. "The best part of it is that when you wake up, for the first fifteen seconds, you have no idea where you are," Roth said. "You're just alive. That's all you know. And it's bliss, it's absolute bliss."
 
 #### Morning Walks
